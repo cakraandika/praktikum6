@@ -6,10 +6,10 @@
 3. Membandingkan nilai variable return a*b, a/b, a+b, a-b
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Flowchart1.png)
+![Flowchart](https://raw.githubusercontent.com/cakraandika/praktikum6/master/flowchart.jpeg)
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Screenshot1.png)
+![Screenshoot](https://raw.githubusercontent.com/cakraandika/praktikum6/master/Ss.jpeg)
 
 **code program lengkap**
 '''c++
